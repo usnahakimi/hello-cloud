@@ -1,7 +1,7 @@
 {
     "AWSEBDockerrunVersion": "1",
     "Image": {
-      "Name": "usnahakimi/node-docker-eb"
+      "Name": "usnahakimi/node-docker-eb2"
     },
     "Ports": [
       {
