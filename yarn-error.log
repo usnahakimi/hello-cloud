@@ -1,0 +1,31 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/bin/yarn add express
+
+PATH: 
+  /Users/usnahakimi/.rvm/gems/ruby-2.6.5/bin:/Users/usnahakimi/.rvm/gems/ruby-2.6.5@global/bin:/Users/usnahakimi/.rvm/rubies/ruby-2.6.5/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin/python3:/Users/usnahakimi/.rvm/gems/ruby-2.6.5/bin:/Users/usnahakimi/.rvm/gems/ruby-2.6.5@global/bin:/Users/usnahakimi/.rvm/rubies/ruby-2.6.5/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/Users/usnahakimi/.rvm/bin:/Users/usnahakimi/.rvm/bin
+
+Yarn version: 
+  1.22.11
+
+Node version: 
+  16.4.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/usnahakimi/Desktop/docker/hello-cloud/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/usr/local/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
